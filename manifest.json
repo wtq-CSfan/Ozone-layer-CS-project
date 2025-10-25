@@ -22,6 +22,6 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Device tracker",
-  "start_url": "https://thunderous-malabi-75f518.netlify.app/",
+  "start_url": "/",
   "theme_color": "#0A0A12"
 }
