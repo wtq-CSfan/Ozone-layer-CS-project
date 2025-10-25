@@ -8,7 +8,7 @@
       "label": "ICTx Device Tracker Desktop"
     },
     {
-      "src": "screenshots/desktop.png",  
+      "src": "screenshots/mobile.png",  
       "sizes": "375x812",
       "type": "image/png",
       "form_factor": "narrow", 
