@@ -1,0 +1,27 @@
+{
+  "screenshots": [
+    {
+      "src": "screenshots/desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png", 
+      "form_factor": "wide",
+      "label": "ICTx Device Tracker Desktop"
+    },
+    {
+      "src": "screenshots/desktop.png",  
+      "sizes": "375x812",
+      "type": "image/png",
+      "form_factor": "narrow", 
+      "label": "ICTx Device Tracker Mobile"
+    }
+  ],
+  "background_color": "#0A0A12",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Device tracker",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Device tracker",
+  "start_url": "https://thunderous-malabi-75f518.netlify.app/",
+  "theme_color": "#0A0A12"
+}
